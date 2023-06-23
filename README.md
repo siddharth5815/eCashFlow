@@ -17,13 +17,13 @@ Prerequisites
 Java Development Kit (JDK) 8 or later installed on your system.
 An SQL database management system (such as MySQL or PostgreSQL) installed and configured.
 
-# Getting Started
+### Getting Started
 Clone the repository:
 
 bash
 git clone https://github.com/your-username/eCashFlow-Simulator.git
 
-# Set up the SQL database:
+### Set up the SQL database:
 
 Create a new database for the application.
 Import the SQL schema file provided in the repository to create the necessary tables.
@@ -48,9 +48,9 @@ Logout and close the application.
 Contributing
 Contributions to the eCashFlow Simulator project are welcome. To contribute:
 
-# Fork the repository.
+### Fork the repository.
 
-# Create a new branch:
+### Create a new branch:
 
 bash
 git checkout -b feature/your-feature-name
@@ -64,10 +64,10 @@ bash
 git push origin feature/your-feature-name
 Open a pull request in the main repository and describe your changes.
 
-# License
+### License
 This project is licensed under the MIT License.
 
-# Contact
+### Contact
 For any inquiries or support, please contact siddharth.dubey5815@gmail.com
 
 Acknowledgements
