@@ -21,7 +21,7 @@ An SQL database management system (such as MySQL or PostgreSQL) installed and co
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/eCashFlow-Simulator.git
+git clone https://github.com/siddharth5815/eCashFlow
 
 ### Set up the SQL database:
 
